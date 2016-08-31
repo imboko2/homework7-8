@@ -890,7 +890,7 @@ input[type="radio"]:checked + label  {
         margin-top: -26px;
     }
     .container__content {
-        min-height: 521px;
+        min-height: 525px;
     }
     .content__header--info {
         width: 100%;
@@ -1077,7 +1077,7 @@ input[type="radio"]:checked + label  {
         padding-left: 82px;
     }
     .container__content {
-        min-height: 520px;
+        min-height: 525px;
     }
     .left__column--had{
         font-size: 24px;
